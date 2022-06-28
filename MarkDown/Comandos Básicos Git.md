@@ -1,4 +1,4 @@
-## Comandos Git
+# Comandos Git.
 
 Neste artigo mostro alguns comandos básicos em Git.
 
@@ -74,3 +74,5 @@ Neste artigo mostro alguns comandos básicos em Git.
   ```
   #git push origin "master"
   ```
+
+ ![ ](https://res.cloudinary.com/practicaldev/image/fetch/s--4RSUi4LD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3kfoy92ty0sds2a0nz4h.gif)
